@@ -1,7 +1,11 @@
-PyLit
-*****
+PyLit3
+******
 
-`Literate Programming`_ with reStructuredText_
+`Literate Programming`_ with reStructuredText_ compatible with Python 3.
+
+This is a project forked from http://github.com/gmilde/PyLit/raw/master/pylit.py
+
+An attempt to make Pylit compatible with Python 3.
 
 .. epigraph::
 
@@ -28,12 +32,13 @@ Documentation
 
 Copyright
   © 2005, 2009 Günter Milde.
+  © 2016, 2016 Lauro Cavalcanti de Sá.
 
 License
-  PyLit is `free software`_, released under the `GNU General Public License`_
-  (GPL) version 2 or later.
+  PyLit3 is `free software`_, released under the `GNU General Public License`_
+  (GPL) version 3 or later.
 
-  PyLit is distributed in the hope that it will be useful, but WITHOUT ANY
+  PyLit3 is distributed in the hope that it will be useful, but WITHOUT ANY
   WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
   FOR A PARTICULAR PURPOSE.  See the `GNU General Public License`_ for more
   details.
